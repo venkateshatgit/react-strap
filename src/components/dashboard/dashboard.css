@@ -1,0 +1,35 @@
+.dashboard{
+    width: 90%;
+    height: 80vh;
+    margin: 50px  auto;
+    border-radius: 5px;
+    background-color: #fff;   
+}
+
+.dashboradHeader{
+    padding: 5px 10px;
+    padding-bottom: 20px;
+    border-bottom: solid 1px rgb(201, 196, 196);
+}
+.dashboardInput{
+    margin-right: 10px;
+    font-size: 1rem;
+    padding: 2px 5px;
+}
+
+.headerInput button{
+    font-size: 1rem;
+    color: #fff;
+    background-color: #e1913a;
+    border-radius: 5px;
+    border: #e1913a;
+    cursor: pointer;
+    padding: 5px 8px;
+}
+
+.tableHead{
+    background-color: rgb(240, 234, 234);
+}
+
+.tableHeadName{
+}
